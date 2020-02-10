@@ -1,2 +1,2 @@
 # ccafder-photo
-for my ccafder.com 's photo
+for my blog's photo
